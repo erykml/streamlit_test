@@ -5,3 +5,4 @@ requests==2.32.5
 streamlit==1.52.2
 ta-lib==0.6.8
 yfinance==0.2.66
+lxml==6.0.0
